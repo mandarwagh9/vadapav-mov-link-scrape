@@ -49,16 +49,3 @@ Prompt 1: Enter URL: `(https://vadapav.mov/example/)`
 Prompt 2: Enter path to save the URL: `C:\files\example.txt`
 ```
 
-
-### Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Please contact [Mandar Wagh](https://x.com/waghweb)
-
