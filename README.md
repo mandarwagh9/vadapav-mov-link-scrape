@@ -1,3 +1,4 @@
+
 # Vadapav Mov Link Scraper
 
 The **Vadapav Mov Link Scraper** is a Python-based tool designed to scrape and extract movie links from websites. This script is part of the Vadapav suite of URL tools and is specifically crafted to help users gather links from various sources for further processing or analysis.
@@ -9,11 +10,12 @@ The **Vadapav Mov Link Scraper** is a Python-based tool designed to scrape and e
 - **Flexible Output**: Saves scraped links to your local machine in a user-defined format.
 
 ## Demo Video
+
 Watch the demo video below to see the Vadapav Mov Link Scraper in action:
 
 <iframe width="1403" height="543" src="https://www.youtube.com/embed/yZmYY85ABJc" title="The Vadapav Mov Link Scraper is a Python-based tool designed to scrape links with just link." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Prerequisites
+## Prerequisites
 
 Ensure you have Python 3.10 installed on your machine. You'll also need to have `requests` and `BeautifulSoup4` libraries. You can install them using:
 
@@ -21,7 +23,7 @@ Ensure you have Python 3.10 installed on your machine. You'll also need to have 
 pip install requests beautifulsoup4
 ```
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
@@ -41,14 +43,16 @@ pip install requests beautifulsoup4
    python main.py
    ```
 
-### Usage
+## Usage
 
+When you run the script, you will be prompted to enter the following:
 
 ```bash
 python main.py
 ```
 
 Prompt 1: Enter URL: `(https://vadapav.mov/example/)`
+
 Prompt 2: Enter path to save the URL: `C:\files\example.txt`
 ```
 
