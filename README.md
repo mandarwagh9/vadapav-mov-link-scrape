@@ -4,10 +4,9 @@ The **Vadapav Mov Link Scraper** is a Python-based tool designed to scrape and e
 
 ## Features
 
-- **Efficient Scraping**: Extracts movie links from specified websites with ease.
+- **Efficient Scraping**: Extracts movie links from vadapav.mov websites with ease.
 - **URL Validation**: Uses `validator.py` to ensure that URLs are properly formatted and accessible.
 - **Flexible Output**: Saves scraped links to your local machine in a user-defined format.
-- **Customizable**: Easily configurable to target different websites or link formats.
 
 ## Getting Started
 
