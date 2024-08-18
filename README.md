@@ -50,9 +50,3 @@ When you run the script, you will be prompted to enter the following:
 ```bash
 python main.py
 ```
-
-Prompt 1: Enter URL: `(https://vadapav.mov/example/)`
-
-Prompt 2: Enter path to save the URL: `C:\files\example.txt`
-```
-
