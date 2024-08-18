@@ -13,7 +13,7 @@ The **Vadapav Mov Link Scraper** is a Python-based tool designed to scrape and e
 
 Watch the demo video below to see the Vadapav Mov Link Scraper in action:
 
-[![Watch the video](https://www.youtube.com/watch?v=yZmYY85ABJc)
+[![Watch the video](https://img.youtube.com/vi/yZmYY85ABJc/hqdefault.jpg)](https://www.youtube.com/watch?v=yZmYY85ABJc)
 
 ## Prerequisites
 
