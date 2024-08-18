@@ -8,7 +8,10 @@ The **Vadapav Mov Link Scraper** is a Python-based tool designed to scrape and e
 - **URL Validation**: Uses `validator.py` to ensure that URLs are properly formatted and accessible.
 - **Flexible Output**: Saves scraped links to your local machine in a user-defined format.
 
-## Getting Started
+## Demo Video
+Watch the demo video below to see the Vadapav Mov Link Scraper in action:
+
+<iframe width="1403" height="543" src="https://www.youtube.com/embed/yZmYY85ABJc" title="The Vadapav Mov Link Scraper is a Python-based tool designed to scrape links with just link." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Prerequisites
 
