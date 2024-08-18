@@ -13,7 +13,7 @@ The **Vadapav Mov Link Scraper** is a Python-based tool designed to scrape and e
 
 ### Prerequisites
 
-Ensure you have Python 3.x installed on your machine. You'll also need to have `requests` and `BeautifulSoup4` libraries. You can install them using:
+Ensure you have Python 3.10 installed on your machine. You'll also need to have `requests` and `BeautifulSoup4` libraries. You can install them using:
 
 ```bash
 pip install requests beautifulsoup4
@@ -41,7 +41,15 @@ pip install requests beautifulsoup4
 
 ### Usage
 
-Modify `main.py` to specify the website URLs and the output file path according to your needs. Refer to the comments within the script for configuration details.
+
+```bash
+python main.py
+```
+
+Prompt 1: Enter URL: `(https://vadapav.mov/example/)`
+Prompt 2: Enter path to save the URL: `C:\files\example.txt`
+```
+
 
 ### Contributing
 
@@ -53,4 +61,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, please contact [Mandar Wagh](mailto:mandarwagh@example.com).
+Please contact [Mandar Wagh](https://x.com/waghweb)
+
